@@ -3,4 +3,11 @@
   <groupId>testB</groupId>
   <artifactId>testB</artifactId>
   <version>1.0</version>
+  <dependencies>
+  	<dependency>
+  		<groupId>testA</groupId>
+  		<artifactId>testA</artifactId>
+  		<version>1.0</version>
+  	</dependency>
+  </dependencies>
 </project>
