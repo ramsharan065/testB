@@ -4,13 +4,13 @@
 	<groupId>testB</groupId>
 	<artifactId>testB</artifactId>
 	<version>1.0</version>
-	<repositories>
-		<repository>
-			<id>cloudbees-private-snapshot-repository</id>
-			<name>cloudbees-private-snapshot-repository</name>
-			<url>dav:https://repository-lftechnology.forge.cloudbees.com/snapshot/</url>
-		</repository>
-	</repositories>
+<!-- 	<repositories> -->
+<!-- 		<repository> -->
+<!-- 			<id>cloudbees-private-snapshot-repository</id> -->
+<!-- 			<name>cloudbees-private-snapshot-repository</name> -->
+<!-- 			<url>dav:https://repository-lftechnology.forge.cloudbees.com/snapshot/</url> -->
+<!-- 		</repository> -->
+<!-- 	</repositories> -->
 	<dependencies>
 		<dependency>
 			<groupId>testA</groupId>
