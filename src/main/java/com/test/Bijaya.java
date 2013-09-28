@@ -1,5 +1,7 @@
 package com.test;
 
+import com.clinicast.utils.Utils;
+
 public class Bijaya {
 	private String name;
 	private Integer friendNameSize;
@@ -10,6 +12,7 @@ public class Bijaya {
 
 	public void setName(String name) {
 		this.name = name;
+		System.out.println(Utils.daysBetween(new Date(),new Date()));
 	}
 
 	public Integer getFriendNameSize() {
